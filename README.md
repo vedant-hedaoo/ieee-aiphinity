@@ -1,2 +1,2 @@
 # ieee-aiphinity
-software project using ai 
+Hackathon competition
